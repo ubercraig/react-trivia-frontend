@@ -10,7 +10,7 @@ React trivia is a web app trivia game in the style of  Jeopard.  Two users battl
 * One question randomly selected to be Jackpot!! at start of game. User can wager any amount of available points.   
 
 ## MVP - Features
-* Full stack - Python / flask
+* Full stack - React / Python / flask
 * 3rd party API Calls - Jservice
 * Users stored in database.
 * Win loss record stored in database. Rank based on # of wins (Rookie, Intermediate, Pro, Master)
@@ -27,9 +27,9 @@ React trivia is a web app trivia game in the style of  Jeopard.  Two users battl
 2. Online Play? - two users playing same game remotely
 
 ## Technologies
-* Front End - Python
-* Back End - Flask
-* Styling - New CSS Frame work or CSS Grid. 
+* Front End - React
+* Back End - Python / Flask
+* Styling - New CSS Frame work TBD or CSS Grid. 
 
 ## Links
 [Deployed Project](#)
