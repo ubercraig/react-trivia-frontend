@@ -28,3 +28,8 @@ React trivia is a web app trivia game in the style of  Jeopard.  Two users battl
 * Front End - Python
 * Back End - Flask
 * Styling - New CSS Frame work or CSS Grid. 
+
+### Links
+[Deployed Project](#)
+[Wire Frame](#)
+
