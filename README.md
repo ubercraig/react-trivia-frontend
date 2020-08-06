@@ -19,8 +19,8 @@ React trivia is a web app trivia game in the style of  Jeopard.  Two users battl
 
 ## Stretch Goals
 1. Track the following additional statistics for logged in user and record into database. 
-* Total games played. Total Win / Loss record and percentage
-* Results of each game played (Opponent played, Score, W / L).
+    * Total games played. Total Win / Loss record and percentage
+    * Results of each game played (Opponent played, Score, W / L).
 
 2. Final Round - Players see category then determine amount to wager for final question.  Obscure player answer while user inputs it until final reveal.
 
