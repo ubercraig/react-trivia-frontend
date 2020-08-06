@@ -31,5 +31,7 @@ React trivia is a web app trivia game in the style of  Jeopard.  Two users battl
 
 ### Links
 [Deployed Project](#)
-[Wire Frame](#)
+
+[Wire Frame](https://github.com/ubercraig/react-trivia-frontend/blob/master/React_trivia.pdf)
+
 
